@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "create-react-app": "^5.0.1",
+    "web3": "^4.2.2",
     "yarn": "^1.22.21"
   }
 }
