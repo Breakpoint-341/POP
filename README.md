@@ -97,3 +97,10 @@ EXAMPLES
 * (https://docs.chain.link/chainlink-automation/overview/getting-started
 
 ---------------------------------------------------------------------
+
+# FrontEnd Basico Funcionando 
+
+* cd frontend
+* npm Start
+
+----------------------------------------------------------------------
