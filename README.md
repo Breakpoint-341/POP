@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1UJlx2xAie-K3cdzBseJrzy6AGlGjy3mzpAfBZQpM
 
 ----------------------------------------------------------------------
 
-# Daniel Web3
+# Daniel Rodriguez
 
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/5de4b0eb-f87c-4993-a429-27cd0a902fd6)
 
@@ -63,3 +63,37 @@ SN -> FE -> PROV -> IPFS -> BLOCKCHAIN -> SMART CONTRACT -> BLOCKCHAIN -> CHAINL
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/09ffe4a9-26c6-4ed8-a650-0a7d4fad9f5d)
 
 ----------------------------------------------------------------------
+
+# Chirag Chanduka
+
+* Basic FE to try SC.
+* Deploy with github https://www.netlify.com/integrations/github/
+* Deploy & Build in https://www.netlify.com/
+* Drag & Drop Box - https://reactjsexample.com/a-light-and-simple-reactjs-drag-and-drop-library/
+
+![image](https://github.com/Breakpoint-341/POP/assets/42863568/03014c1e-5d01-4eee-a59f-675b05256fd0)
+
+EXAMPLES
+- https://github.com/gonzalolater/NFT-Marketplace-Solidity-Hardhat-NexJS-Web3js-Tailwind
+- https://github.com/gonzalolater/RTW3-WEEK7-NFT-Marketplace
+- https://github.com/gonzalolater/Royalty-Marketplace
+
+---------------------------------------------------------------------
+
+# Repository Creation
+
+![image](https://github.com/Breakpoint-341/POP/assets/42863568/56b14603-8414-460a-ad19-a2f4d76d550f)
+
+# EXAMPLE
+
+* POAP REPOSITORY: https://github.com/AdaSouls/stateful-poap/tree/develop/contracts
+
+---------------------------------------------------------------------
+
+# Juan Fuentes
+
+![image](https://github.com/Breakpoint-341/POP/assets/42863568/49adef2e-baa0-42b3-a3b5-14ca27436c95)
+
+* (https://docs.chain.link/chainlink-automation/overview/getting-started
+
+---------------------------------------------------------------------
