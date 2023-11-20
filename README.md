@@ -2,9 +2,7 @@
 
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/62a25a5a-faf1-478b-9205-218f1ebce709)
 
-Proof of Participation (Chainlink POP)
-
----------------------------------------------------------------------
+# Proof of Participation (Chainlink POP)
 
 * POP is THE digital memory, with automation technology in Chainlink, this image outside the blockchain will be changed eternally every month
 * POP is the prestige commemoration, the image of personality within the blockchain.
@@ -18,8 +16,14 @@ Proof of Participation (Chainlink POP)
 
 ----------------------------------------------------------------------
 
-Resources and Tasks
+# Resources and Tasks
 
 https://docs.google.com/spreadsheets/d/1UJlx2xAie-K3cdzBseJrzy6AGlGjy3mzpAfBZQpMs4A/edit?usp=sharing
+
+----------------------------------------------------------------------
+
+# Juan Pablo Alegre
+
+![image](https://github.com/Breakpoint-341/POP/assets/42863568/99405f14-a7aa-46ae-a241-48f3ffa7d1ee)
 
 ----------------------------------------------------------------------
