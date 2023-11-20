@@ -1,5 +1,7 @@
 ## ChainLink POP
 
+![image](https://github.com/Breakpoint-341/POP/assets/42863568/62a25a5a-faf1-478b-9205-218f1ebce709)
+
 Proof of Participation (Chainlink POP)
 
 ---------------------------------------------------------------------
@@ -9,3 +11,15 @@ Proof of Participation (Chainlink POP)
 * From the Oracle, & the world's largest abstract Blockchain. Each previous image is recorded on the blockchain, this being one that eternally changes and multiplies.
 
 ---------------------------------------------------------------------
+
+[Breainstorming - Ideas (DETAILS).docx](https://github.com/Breakpoint-341/POP/files/13415098/Breainstorming.-.Ideas.DETAILS.docx)
+
+[READMEideas.md](https://github.com/Breakpoint-341/POP/files/13415101/READMEideas.md)
+
+----------------------------------------------------------------------
+
+Resources and Tasks
+
+https://docs.google.com/spreadsheets/d/1UJlx2xAie-K3cdzBseJrzy6AGlGjy3mzpAfBZQpMs4A/edit?usp=sharing
+
+----------------------------------------------------------------------
