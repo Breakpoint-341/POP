@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/homeFragment"/>
+
+    <item android:title="Camera"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:id="@+id/cameraFragment"/>
+
+    <item android:title="Map"
+        android:icon="@drawable/baseline_map_24"
+        android:id="@+id/mapFragment"/>
+
+</menu>
