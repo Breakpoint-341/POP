@@ -27,10 +27,10 @@ const Navbar = () => {
               src="/ChainlinkPOP.png"
               alt="Icono"
               style={{
-                width: '10em', // Puedes ajustar el tamaño según tus necesidades
-                height: 'auto', // Esto asegura que la altura se ajuste automáticamente
-                maxWidth: '100%', // Limita el tamaño máximo en pantallas más grandes
-                display: 'inline-block', // Asegura que el contenido a su alrededor no se vea afectado
+                width: '10em', 
+                height: 'auto', 
+                maxWidth: '100%',
+                display: 'inline-block', 
               }}
             />
             
