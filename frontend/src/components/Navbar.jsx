@@ -1,5 +1,6 @@
 import React from 'react';
-import ConnectButton from './ConnectButton';
+import BottonConnect from './BottonConect';
+import NumBilleta from './NumBilletera'
 
 const Navbar = () => {
   const navbarStyle = {
@@ -14,7 +15,7 @@ const Navbar = () => {
   const buttonStyle = {
     padding: '10px',
     background: 'white',
-    color: 'black',
+    color: 'blue',
     border: 'none',
     cursor: 'pointer',
   };
@@ -37,7 +38,8 @@ const Navbar = () => {
           </a>
       </div>
       <div>
-        <button style={buttonStyle}><ConnectButton /></button>
+      
+        <button style={buttonStyle}><BottonConnect /> </button>
       </div>
     </div>
   );
