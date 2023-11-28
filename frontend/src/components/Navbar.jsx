@@ -8,7 +8,7 @@ const Navbar = () => {
     justifyContent: 'space-between',
     alignItems: 'center',
     padding: '10px',
-    background: 'linear-gradient(to right, #3498db, #87CEEB)', // Azul a celeste
+    background: 'linear-gradient(to right, #3498db, #87CEEB)', 
     color: 'white',
   };
 

@@ -5,15 +5,10 @@ const WalletAddress = () => {
   const [walletAddress, setWalletAddress] = useState(null);
 
   const connectMetaMask = () => {
-    // Verifica si MetaMask está instalado
-    if (window.ethereum) {
-      // Crea una instancia de Web3 utilizando el proveedor de MetaMask
+      if (window.ethereum) {
       const web3 = new Web3(window.ethereum);
-
-      // Solicita acceso a la billetera de MetaMask
-      window.ethereum.enable()
+       window.ethereum.enable()
         .then((accounts) => {
-          // Obtiene la dirección de la billetera después de que MetaMask está habilitado
           const address = accounts[0];
           setWalletAddress(address);
         })
