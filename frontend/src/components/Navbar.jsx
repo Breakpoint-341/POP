@@ -1,6 +1,6 @@
 import React from 'react';
 import BottonConnect from './BottonConect';
-import NumBilleta from './NumBilletera'
+
 
 const Navbar = () => {
   const navbarStyle = {
