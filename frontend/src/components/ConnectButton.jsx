@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// eslint-disable-next-line
 import Web3 from 'web3';
 
 const ConnectButton = () => {
