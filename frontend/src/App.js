@@ -1,5 +1,4 @@
 import React from 'react';
-import ConnectButton from './components/ConnectButton';
 import Navbar from './components/Navbar';
 
 

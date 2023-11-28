@@ -115,3 +115,35 @@ EXAMPLES
 
 
 ----------------------------------------------------------------------
+14.
+
+# Frontend deployment with Netlify
+
+This repository contains the POP Chainlink frontend source code. Below are the steps to deploy it live using Netlify.
+
+## Frontend Deployment
+
+1. **Fork the repository:**
+     
+* cd frontend 
+* npm install 
+* npm install yarn
+* yarn install
+* npm run build
+* configure "netlify.toml."
+* sync github with netlify
+* Every time a new push is received, the live website is refreshed to show the change.
+* https://popchainlink.netlify.app/
+
+![image](https://github.com/gonzalolater/POP/assets/42863568/de27d1ba-8ad2-4699-aae0-fce83de55796)
+
+---------------------------------------------------------------------
+15.
+
+# Se designa a Daniel para la preparacion del pitch, la presentacion del proyecto y su defensa.
+
+* ![First POP Chainlink](https://github.com/gonzalolater/POP/assets/42863568/bc3d4b96-7aaa-499f-acee-befad79e152e)
+* ![Constellations-hero](https://github.com/gonzalolater/POP/assets/42863568/e0a2a5d6-53bf-4a77-8941-63b9cdc8f448)
+
+--------------------------------------------------------------------
+---------------------------------------------------------------------
