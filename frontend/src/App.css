@@ -22,13 +22,3 @@
 .App-link {
   color: #61dafb;
 }
-
-.body {
-  margin: 0;
-  padding: 0;
-  background-image: url('/frontend/public/Constellations-hero.jpg');
-  background-size: cover; /* Cubre todo el contenedor manteniendo la proporción de aspecto */
-  background-position: center; /* Centra la imagen */
-  background-repeat: no-repeat; /* Evita la repetición de la imagen */
-  height: 100vh; /* Ajusta la altura al 100% del viewport */
-}

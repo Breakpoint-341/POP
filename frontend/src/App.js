@@ -1,14 +1,15 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-
+import Home from './components/Home'
 
 const App = () => {
   return (
-    <div class="body">
     <div>
-      <Navbar/>
-      {/* Other components and content */}
-    </div>
+      <div>
+        <Navbar />
+        <Home />
+        {/* Other components and content */}
+      </div>
     </div>
   );
 };
