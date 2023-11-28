@@ -23,11 +23,11 @@ const WalletAddress = () => {
   return (
     <div>
       {walletAddress ? (
-        <p>Dirección de la billetera: {walletAddress}</p>
+        <p>Wallet Address: {walletAddress}</p>
       ) : (
         <div>
-          <p>Conéctate a MetaMask para ver la dirección de la billetera.</p>
-          <button onClick={connectMetaMask}>Conectar MetaMask</button>
+          <p>Conect to MetaMask</p>
+          <button onClick={connectMetaMask}>Conect MetaMask</button>
         </div>
       )}
     </div>
