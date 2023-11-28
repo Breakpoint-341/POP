@@ -26,7 +26,7 @@ const WalletAddress = () => {
         <p>Wallet Address: {walletAddress}</p>
       ) : (
         <div>
-          <p>Conect to MetaMask</p>
+          <p>Connect Your Wallet </p>
           <button onClick={connectMetaMask}>Conect MetaMask</button>
         </div>
       )}
