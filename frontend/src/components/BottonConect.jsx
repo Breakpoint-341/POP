@@ -6,6 +6,7 @@ const WalletAddress = () => {
 
   const connectMetaMask = () => {
       if (window.ethereum) {
+        /* eslint-disable no-unused-vars */
       const web3 = new Web3(window.ethereum);
        window.ethereum.enable()
         .then((accounts) => {
