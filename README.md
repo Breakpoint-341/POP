@@ -138,6 +138,7 @@ This repository contains the POP Chainlink frontend source code. Below are the s
 ![image](https://github.com/gonzalolater/POP/assets/42863568/de27d1ba-8ad2-4699-aae0-fce83de55796)
 
 ---------------------------------------------------------------------
+
 15.
 
 # Se designa a Daniel para la preparacion del pitch, la presentacion del proyecto y su defensa.
@@ -146,4 +147,16 @@ This repository contains the POP Chainlink frontend source code. Below are the s
 * ![Constellations-hero](https://github.com/gonzalolater/POP/assets/42863568/e0a2a5d6-53bf-4a77-8941-63b9cdc8f448)
 
 --------------------------------------------------------------------
+
+## Juan Pablo Alegre
+
+16.
+
+![image](https://github.com/gonzalolater/POP/assets/42863568/ef764047-70ca-4329-979f-31b8ae3ec8fa)
+
+* implementation of qr scan in the mobile app
+* Doing: incorporating API for geolocation.
+
+
 ---------------------------------------------------------------------
+
