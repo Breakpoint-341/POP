@@ -1,5 +1,6 @@
 import React from 'react';
-import ConnectButton from './ConnectButton';
+import BottonConnect from './BottonConect';
+
 
 const Navbar = () => {
   const navbarStyle = {
@@ -7,14 +8,14 @@ const Navbar = () => {
     justifyContent: 'space-between',
     alignItems: 'center',
     padding: '10px',
-    background: 'linear-gradient(to right, #3498db, #87CEEB)', // Azul a celeste
+    background: 'linear-gradient(to right, #3498db, #87CEEB)', 
     color: 'white',
   };
 
   const buttonStyle = {
     padding: '10px',
     background: 'white',
-    color: 'black',
+    color: 'blue',
     border: 'none',
     cursor: 'pointer',
   };
@@ -37,7 +38,8 @@ const Navbar = () => {
           </a>
       </div>
       <div>
-        <button style={buttonStyle}><ConnectButton /></button>
+      
+        <button style={buttonStyle}><BottonConnect /> </button>
       </div>
     </div>
   );
