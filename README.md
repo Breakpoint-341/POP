@@ -185,3 +185,10 @@ EXAMPLES
 * ![image](https://github.com/Breakpoint-341/POP/assets/42863568/a4a5b406-b017-4ab6-b96f-9eb968d5587c)
 
 ---------------------------------------------------------------------
+18.
+
+* changes to the metamask button so that it connects and shows the wallet number
+* ![image](https://github.com/gonzalolater/POP/assets/42863568/fd4f7ac9-9409-45b7-ac74-84bd51a3fec0)
+* ![image](https://github.com/gonzalolater/POP/assets/42863568/c3de4872-e6f1-4613-bf6d-00ad8d78bcea)
+
+---------------------------------------------------------------------
