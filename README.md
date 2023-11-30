@@ -155,7 +155,8 @@ EXAMPLES
 * sync github with netlify
 * Every time a new push is received, the live website is refreshed to show the change.
 * https://popchainlink.netlify.app/
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/de27d1ba-8ad2-4699-aae0-fce83de55796)
+* ![image](https://github.com/Breakpoint-341/POP/assets/42863568/a2189b39-b466-4931-9de7-7a6e29e031a4)
+
 
 ---------------------------------------------------------------------
 
@@ -163,8 +164,8 @@ EXAMPLES
 
 15.
 
-* ![First POP Chainlink](https://github.com/gonzalolater/POP/assets/42863568/bc3d4b96-7aaa-499f-acee-befad79e152e)
-* ![Constellations-hero](https://github.com/gonzalolater/POP/assets/42863568/e0a2a5d6-53bf-4a77-8941-63b9cdc8f448)
+* ![Constellations-hero](https://github.com/Breakpoint-341/POP/assets/42863568/c066f272-ca87-43a9-b3a8-005a339fede4)
+* ![POP](https://github.com/Breakpoint-341/POP/assets/42863568/5f7e1b26-2317-44ed-abb8-a52e29336cab)
 
 --------------------------------------------------------------------
 
@@ -172,10 +173,9 @@ EXAMPLES
 
 16.
 
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/ef764047-70ca-4329-979f-31b8ae3ec8fa)
 * implementation of qr scan in the mobile app
 * Doing: incorporating API for geolocation.
-
+* [https://youtu.be/x4qKvqlNKdA](https://www.youtube.com/watch?v=x4qKvqlNKdA)
 ---------------------------------------------------------------------
 
 ## Architecture of our Program
@@ -194,5 +194,18 @@ EXAMPLES
 19
 
 * Modal + Style + deploy settings.
+
+---------------------------------------------------------------------
+
+20.
+
+## Juan Pablo Alegre
+
+Mobile advance.
+
+* ![image](https://github.com/Breakpoint-341/POP/assets/42863568/91e05b20-05af-4dac-a23f-9e942d15631e)
+* https://youtu.be/x4qKvqlNKdA
+
+Geolocalization + QR Scan.
 
 ---------------------------------------------------------------------
