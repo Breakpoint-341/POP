@@ -1,5 +1,3 @@
-<img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/ff88067a-52cd-49e1-a36a-a16359d76b3a">## ChainLink POP
-
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/62a25a5a-faf1-478b-9205-218f1ebce709)
 
 # Proof of Participation (Chainlink POP)
@@ -220,4 +218,4 @@ Geolocalization + QR Scan.
 * <img width="964" alt="image" src="https://github.com/Breakpoint-341/POP/assets/42863568/c487d863-af6a-496b-9572-d21ea06bec7f">
 * <img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/dc4d2d17-017a-47f8-a8b8-05dae58f8d75">
 
-
+---------------------------------------------------------------------
