@@ -187,8 +187,12 @@ EXAMPLES
 ---------------------------------------------------------------------
 18.
 
-* changes to the metamask button so that it connects and shows the wallet number
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/fd4f7ac9-9409-45b7-ac74-84bd51a3fec0)
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/c3de4872-e6f1-4613-bf6d-00ad8d78bcea)
+* changes to the metamask button so that it connects and shows the wallet number.
+
+---------------------------------------------------------------------
+
+19
+
+* Modal + Style + deploy settings.
 
 ---------------------------------------------------------------------
