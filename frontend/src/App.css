@@ -22,3 +22,12 @@
 .App-link {
   color: #61dafb;
 }
+
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Bloquear scroll en todo el cuerpo de la aplicación */
+}
+
+/* Agrega estilos adicionales según sea necesario para hacer que tu aplicación sea full responsive */
