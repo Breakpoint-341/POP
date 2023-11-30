@@ -38,7 +38,3 @@ Access Geolocation: Uses geolocation to associate location information with capt
 
 This README provides an overview of the project and serves as a guide for developers contributing to the development and maintenance of the Chainlink POP mobile application.
 
-![image](https://github.com/Breakpoint-341/POP/assets/42863568/fb9ebeab-29b0-4c67-b3b2-733651ed8f36)
-
-
-

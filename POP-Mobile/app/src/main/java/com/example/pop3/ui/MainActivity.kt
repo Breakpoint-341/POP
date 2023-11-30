@@ -1,12 +1,14 @@
 package com.example.pop3.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.example.pop3.R
 import com.example.pop3.databinding.ActivityMainBinding
+import org.web3j.protocol.Web3j
+import org.web3j.protocol.http.HttpService
 
 class MainActivity : AppCompatActivity() {
 
@@ -22,7 +24,8 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNavigation.setupWithNavController(navController)
 
         binding.fab.setOnClickListener {
-            Toast.makeText(this, "Connecting to Metamask...", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Connecting to Metamask...", Toast.LENGTH_LONG).show()
+            val web3j = Web3j.build(HttpService("https://rinkeby.infura.io/v3/your-infura-api-key"))
         }
     }
 }
