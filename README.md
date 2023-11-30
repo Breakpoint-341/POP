@@ -1,5 +1,3 @@
-## ChainLink POP
-
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/62a25a5a-faf1-478b-9205-218f1ebce709)
 
 # Proof of Participation (Chainlink POP)
@@ -155,7 +153,8 @@ EXAMPLES
 * sync github with netlify
 * Every time a new push is received, the live website is refreshed to show the change.
 * https://popchainlink.netlify.app/
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/de27d1ba-8ad2-4699-aae0-fce83de55796)
+* ![image](https://github.com/Breakpoint-341/POP/assets/42863568/a2189b39-b466-4931-9de7-7a6e29e031a4)
+
 
 ---------------------------------------------------------------------
 
@@ -163,8 +162,8 @@ EXAMPLES
 
 15.
 
-* ![First POP Chainlink](https://github.com/gonzalolater/POP/assets/42863568/bc3d4b96-7aaa-499f-acee-befad79e152e)
-* ![Constellations-hero](https://github.com/gonzalolater/POP/assets/42863568/e0a2a5d6-53bf-4a77-8941-63b9cdc8f448)
+* ![Constellations-hero](https://github.com/Breakpoint-341/POP/assets/42863568/c066f272-ca87-43a9-b3a8-005a339fede4)
+* ![POP](https://github.com/Breakpoint-341/POP/assets/42863568/5f7e1b26-2317-44ed-abb8-a52e29336cab)
 
 --------------------------------------------------------------------
 
@@ -172,7 +171,6 @@ EXAMPLES
 
 16.
 
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/ef764047-70ca-4329-979f-31b8ae3ec8fa)
 * implementation of qr scan in the mobile app
 * Doing: incorporating API for geolocation.
 
@@ -187,8 +185,37 @@ EXAMPLES
 ---------------------------------------------------------------------
 18.
 
-* changes to the metamask button so that it connects and shows the wallet number
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/fd4f7ac9-9409-45b7-ac74-84bd51a3fec0)
-* ![image](https://github.com/gonzalolater/POP/assets/42863568/c3de4872-e6f1-4613-bf6d-00ad8d78bcea)
+* changes to the metamask button so that it connects and shows the wallet number.
+
+---------------------------------------------------------------------
+
+19
+
+* Modal + Style + deploy settings.
+
+---------------------------------------------------------------------
+
+20.
+
+## Juan Pablo Alegre
+
+## Mobile advance.
+
+* ![image](https://github.com/Breakpoint-341/POP/assets/42863568/91e05b20-05af-4dac-a23f-9e942d15631e)
+* https://youtu.be/x4qKvqlNKdA
+
+Geolocalization + QR Scan.
+
+---------------------------------------------------------------------
+
+21.
+
+## Juan Fuentes
+
+## WEB 3 Market Advance
+
+* <img width="967" alt="POP" src="https://github.com/Breakpoint-341/POP/assets/42863568/df34e623-a703-407d-a3a2-74cde747951e">
+* <img width="964" alt="image" src="https://github.com/Breakpoint-341/POP/assets/42863568/c487d863-af6a-496b-9572-d21ea06bec7f">
+* <img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/dc4d2d17-017a-47f8-a8b8-05dae58f8d75">
 
 ---------------------------------------------------------------------
