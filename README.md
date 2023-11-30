@@ -1,4 +1,4 @@
-## ChainLink POP
+<img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/ff88067a-52cd-49e1-a36a-a16359d76b3a">## ChainLink POP
 
 ![image](https://github.com/Breakpoint-341/POP/assets/42863568/62a25a5a-faf1-478b-9205-218f1ebce709)
 
@@ -175,7 +175,7 @@ EXAMPLES
 
 * implementation of qr scan in the mobile app
 * Doing: incorporating API for geolocation.
-* [https://youtu.be/x4qKvqlNKdA](https://www.youtube.com/watch?v=x4qKvqlNKdA)
+
 ---------------------------------------------------------------------
 
 ## Architecture of our Program
@@ -209,3 +209,15 @@ Mobile advance.
 Geolocalization + QR Scan.
 
 ---------------------------------------------------------------------
+
+21.
+
+## Juan Fuentes
+
+## WEB 3 Market Advance
+
+* <img width="967" alt="POP" src="https://github.com/Breakpoint-341/POP/assets/42863568/df34e623-a703-407d-a3a2-74cde747951e">
+* <img width="964" alt="image" src="https://github.com/Breakpoint-341/POP/assets/42863568/c487d863-af6a-496b-9572-d21ea06bec7f">
+* <img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/dc4d2d17-017a-47f8-a8b8-05dae58f8d75">
+
+
