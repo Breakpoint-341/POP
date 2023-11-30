@@ -1,5 +1,6 @@
 import React from 'react';
 import SellNFT from './SellNFT';
+import BibliotecaPersonal from './BibiotecaPersonal';
 
 const MiComponente = () => {
   const containerStyle = {
@@ -10,6 +11,7 @@ const MiComponente = () => {
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
+    overflowY: 'auto'
   };
 
   const contentContainerStyle = {
@@ -17,14 +19,15 @@ const MiComponente = () => {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
     color: 'white',
   };
 
   return (
     <div style={containerStyle}>
       <div style={contentContainerStyle}>
-        <h1>Título u otro contenido aquí</h1>
+        <h1>Biblioteca Personal</h1>
+          <BibliotecaPersonal />
       </div>
       <div style={contentContainerStyle}>
         <SellNFT />
