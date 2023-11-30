@@ -20,4 +20,9 @@
         android:name="com.example.pop3.ui.MapFragment"
         android:label="fragment_map"
         tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/scanQRFragment"
+        android:name="com.example.pop3.ui.ScanQRFragment"
+        android:label="fragment_scan_q_r"
+        tools:layout="@layout/fragment_scan_q_r" />
 </navigation>

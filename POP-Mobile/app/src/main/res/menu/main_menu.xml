@@ -10,6 +10,10 @@
         android:icon="@drawable/baseline_camera_alt_24"
         android:id="@+id/cameraFragment"/>
 
+    <item android:title="Scan QR"
+        android:icon="@drawable/baseline_qr_code_24"
+        android:id="@+id/scanQRFragment"/>
+
     <item android:title="Map"
         android:icon="@drawable/baseline_map_24"
         android:id="@+id/mapFragment"/>
