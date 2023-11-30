@@ -1,0 +1,13 @@
+/* Estilos para dispositivos móviles */
+@media (max-width: 767px) {
+    /* Agrega estilos específicos para dispositivos móviles aquí */
+    /* Por ejemplo, puedes cambiar la dirección de flex a columna */
+    div {
+      flex-direction: column;
+      align-items: center;
+    }
+    button {
+      margin-top: 10px;
+    }
+  }
+  
