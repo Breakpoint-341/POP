@@ -15,22 +15,22 @@ const WalletAddress = () => {
           setWalletAddress(address);
           web3.eth.net.getId()
             .then((networkId) => {
-              const sepoliaTestnetId = 11155111;
-              if (networkId !== sepoliaTestnetId) {
+              const mumbaiTestnetId = 80001;
+              if (networkId !== mumbaiTestnetId) {
                 window.ethereum.request({
                   method: 'wallet_addEthereumChain',
                   params: [
                     {
-                      chainId: `0x${sepoliaTestnetId.toString(16)}`, // Hexadecimal
-                      chainName: 'Sepolia Testnet',
+                      chainId: `0x${mumbaiTestnetId.toString(16)}`, // Hexadecimal
+                      chainName: 'Mumbai',
                       nativeCurrency: {
-                        name: 'SepoliaETH',
-                        symbol: 'SepoliaETH',
+                        name: 'Polygon Mumbai',
+                        symbol: 'Polygon',
                         decimals: 18,
                       },
                       // Elimina la referencia a la API aquí
                       rpcUrls: [], // Deja esto vacío
-                      blockExplorerUrls: ['https://sepolia.etherscan.io/'],
+                      blockExplorerUrls: ['https://polygon.technology/'],
                     },
                   ],
                 })
@@ -47,7 +47,7 @@ const WalletAddress = () => {
                     console.error('Error al cambiar la red:', error);
                   });
               } else {
-                // Conexión exitosa a Sepolia Testnet(ETH)
+                // Conexión exitosa a Polygon Mumbai Testnet(ETH)
                 console.log('Conectado a Sepolia Testnet(ETH)');
                 closeModal();
 
