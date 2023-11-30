@@ -49,7 +49,7 @@ const SellNFT = () => {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '20px' }}>
-      <h1 style={{ marginBottom: '20px', textAlign: 'center' }}>Mint <img src="/POP.bmp" alt="POP" style={{ width: '50px', height: '50px' }} /> Chainlink</h1>
+      <h1 style={{ marginBottom: '20px', textAlign: 'center' }}>Mint <img src="/POP.bmp" alt="POP" style={{ borderRadius: '25%', width: '50px', height: '50px' }} /> Chainlink</h1>
       <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', marginBottom: '20px' }}>
         <div style={{ width: '45%' }}>
           <div
