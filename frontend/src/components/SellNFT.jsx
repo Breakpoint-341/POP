@@ -68,7 +68,7 @@ const SellNFT = () => {
             {fileURL ? (
               <img src={fileURL} alt="Minted" style={{ maxWidth: '100%', maxHeight: '100%' }} />
             ) : (
-              <p>Drag & Drop or click to select an image</p>
+              <p style={{ textAlign: 'center' }}> Drag & Drop or click to select an image</p>
             )}
           </div>
           <input type="file" onChange={handleFileChange} style={{ display: 'none' }} />
