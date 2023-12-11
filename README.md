@@ -219,3 +219,9 @@ Geolocalization + QR Scan.
 * <img width="958" alt="POP2" src="https://github.com/Breakpoint-341/POP/assets/42863568/dc4d2d17-017a-47f8-a8b8-05dae58f8d75">
 
 ---------------------------------------------------------------------
+
+22. Final presentation
+
+* https://youtu.be/fxIqvoz9l7s
+* https://www.linkedin.com/feed/update/urn:li:activity:7139729807931518976/
+* https://devpost.com/software/chainlinkpop-proof-of-participation
